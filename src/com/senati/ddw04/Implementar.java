@@ -19,7 +19,8 @@ public class Implementar {
 		System.out.println("Datos registrados");
 		System.out.println(Cel1.toString());
 		
-		//Crear unh objecto Cel2 
+		//Crear un objeto Cel2  y agrega sus caracteristicas
+		Celular Cel2 = new Celular(2,"Spire", 2018);
 
 	}
 
